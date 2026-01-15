@@ -1,4 +1,4 @@
-# Airline Flights Analysis 🚀
+# Airline Flights Analysis 
 
 This project analyzes airline flight data using SQL and Power BI.  
 It includes insights on flight duration, busiest routes, ticket prices, and more.
